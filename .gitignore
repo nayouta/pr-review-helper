@@ -1,0 +1,7 @@
+# Git ignore file
+
+# Ignore all files in the node_modules directory
+node_modules
+
+# Report directory
+report
